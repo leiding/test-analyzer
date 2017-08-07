@@ -1,4 +1,4 @@
 # TestAnalyzer
 
-**TODO: Add description**
+**TODO: Write the function spec**
 
